@@ -1,7 +1,7 @@
 # Hi , I'm Praveen Dwivedi 👋
 
-🔭 I’m completed my Bachelor's in Electronics and Communication Engineering at NIT Agartala<br>
-🌱 I’m learning backend development in Java using spring and spring boot <br>
+🔭 I have completed my Bachelor's in Electronics and Communication Engineering from NIT Agartala<br>
+🌱 I’m currently learning backend development in Java using spring and spring boot <br>
 
 
 ## 🌐 Socials:
